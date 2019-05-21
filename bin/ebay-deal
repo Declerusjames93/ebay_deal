@@ -1,0 +1,4 @@
+#puts "I love you Jesus!"
+#!/usr/bin/env ruby
+require './lib/ebay_deal'
+EbayDeal::Controlller.new.call 
